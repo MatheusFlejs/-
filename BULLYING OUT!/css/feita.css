@@ -1,0 +1,22 @@
+html{
+    background-color: black;
+}
+h1{
+    margin: auto auto;
+    position: absolute;
+    color: white;
+    margin-top: 19%;
+    margin-left: 37%;
+    font-size: 50px;
+    padding: 10px 30px;
+    background-color: red;
+    border-radius: 20px;
+}
+a{
+    text-decoration: none;
+    position: absolute;
+    color: red;
+    margin-top: 23%;
+    margin-left: 37%;
+    
+}
